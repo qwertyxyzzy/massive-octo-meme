@@ -1,0 +1,20 @@
+Version 0.4 to 0.3.1
+--------------------
+1. Add support to apply ignore switch to all sheets in a workbook
+
+Version 0.3.1 to 0.3
+-------------------
+1. Bug fix dealing with Excel sheet containing numeric data and formulas.
+
+Version 0.3 to 0.2
+-------------------
+
+1. Support Open document (.ods) files
+2. Add some smoke tests
+
+
+Version 0.2 to 0.1
+------------------
+
+1. Better output formatting and more details
+2. Breakup code into multiple files
